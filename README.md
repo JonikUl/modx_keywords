@@ -1,4 +1,4 @@
-# modx_keywords
+# keywords
 MODX REVO Snippet for generating SEO keywords from Resource fields.
 
 ## PROPERTIES
